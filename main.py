@@ -1,5 +1,13 @@
 def filter_students_by_grade(students):
-    # TODO: Nutze eine List Comprehension, um Studenten zu filtern, deren Note kleiner als 4.0 ist.
+    """
+    Nutze eine List Comprehension, um Studenten zu filtern, deren Note kleiner als 4.0 ist.
+
+    Parameters:
+    - students (list): Liste der Studenten und ihrer Noten.
+
+    Returns:
+    - list: Liste der gefilterten Studenten.
+    """
     return []
 
 
