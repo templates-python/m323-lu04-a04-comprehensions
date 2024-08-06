@@ -1,0 +1,8 @@
+[
+  {
+    "name": "test_filter_students_by_grade",
+    "function": "test_filter_students_by_grade",
+    "timeout": 10,
+    "points": 1
+  }
+]
