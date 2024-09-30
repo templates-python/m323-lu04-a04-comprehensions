@@ -17,7 +17,7 @@ if __name__ == '__main__':
         ('Bob', 3.5),
         ('Charlie', 4.25),
         ('David', 5.5),
-        ('Manuel', 3.75)
+        ('Manuel', 3.75),
     ]
     result = filter_students_by_grade(students)
     print(result)
