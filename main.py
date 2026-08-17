@@ -1,3 +1,8 @@
+"""Filtere Studenten nach Noten.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu04/aufgaben/comprehensions2
+"""
+
 def filter_students_by_grade(students):
     """
     Nutze eine List Comprehension, um Studenten zu filtern, deren Note kleiner als 4.0 ist.
