@@ -17,12 +17,12 @@ def filter_students_by_grade(students):
 
 
 if __name__ == '__main__':
-    students = [
+    demo_students = [
         ('Alice', 4.0),
         ('Bob', 3.5),
         ('Charlie', 4.25),
         ('David', 5.5),
         ('Manuel', 3.75),
     ]
-    result = filter_students_by_grade(students)
+    result = filter_students_by_grade(demo_students)
     print(result)
